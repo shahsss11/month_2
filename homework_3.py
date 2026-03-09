@@ -52,4 +52,3 @@ print(classmate.introduce())
 
 classmate = Classmate('Семен', 'одноклассник', '11.01.2008', 'официант', '222', False)
 print(classmate.introduce())
-
